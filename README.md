@@ -1,1 +1,2 @@
-# N-Queen-Visualizer
+# N-Queens-Visualiser
+N queens backtracking visualization
